@@ -16,3 +16,9 @@
 インストール例：
 ```bash
 pip install pandas matplotlib yfinance
+
+## 必要なライブラリ
+以下のPythonライブラリを使用しています。
+- pandas
+- matplotlib
+- yfinance （株価データ取得用）
